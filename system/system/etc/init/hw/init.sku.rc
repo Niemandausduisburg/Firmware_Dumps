@@ -1,0 +1,23 @@
+on fs
+    setprop ro.wifi.channels 11
+    setprop ro.product.device NB1
+    setprop ro.product.brand Nokia
+    setprop ro.product.locale en-GB
+    setprop ro.product.board MSM8998
+    setprop ro.product.model.num 00WW
+    setprop ro.product.vendor.device NB1
+    setprop ro.config.dbgcfgtool_config 2
+    setprop ro.product.nickname "Nokia 8"
+    setprop ro.product.vendor.brand Nokia
+    setprop ro.com.android.mobiledata true
+    setprop ro.telephony.default_network 9
+    setprop ro.com.android.dataroaming false
+    setprop ro.com.android.prov_mobiledata false
+    setprop ro.product.manufacturer "HMD Global"
+    setprop ro.com.google.clientidbase android-hmd-rev2
+    setprop ro.product.vendor.manufacturer "HMD Global"
+    setprop ro.vendor.build.fingerprint ${ro.build.fingerprint}
+    setprop setupwizard.feature.deferred_snooze_allow_never true
+on fs
+	setprop ro.build.fingerprint Nokia/NB1_00WW_FIH/NB1:9/PPR1.180610.011/00WW_5_16A:user/release-keys
+	setprop ro.build.description "NB1_00WW_FIH-user 9 PPR1.180610.011 00WW_5_16A release-keys"

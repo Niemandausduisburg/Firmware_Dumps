@@ -1,0 +1,9 @@
+on fs
+    setprop ro.product.model TA-1052
+    setprop ro.product.name TA-1052_00WW
+    setprop ro.product.vendor.model TA-1052
+    setprop ro.telephony.default_network 20
+    setprop ro.product.vendor.name TA-1052_00WW
+on fs
+	setprop ro.build.fingerprint Nokia/TA-1052_00WW/NB1:9/PPR1.180610.011/00WW_5_16A:user/release-keys
+	setprop ro.build.description "TA-1052_00WW-user 9 PPR1.180610.011 00WW_5_16A release-keys"

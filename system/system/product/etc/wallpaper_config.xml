@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Wallpaper>
+    <project name="default">
+        <sku id="default">
+            <item name="ACTION_PARTNER_CUSTOMIZATION">com.evenwell.foxlauncher.action.PARTNER_CUSTOMIZATION</item>
+	    <item name="default_property">B</item>
+            <mapping-wallpaper type="propertyWallpaper" value="S">greyglacierlookout</mapping-wallpaper><!-- Stainless steel -->
+            <mapping-wallpaper type="propertyWallpaper" value="M">torresdelpainehorns</mapping-wallpaper><!-- Gloss Copper -->
+            <mapping-wallpaper type="propertyWallpaper" value="L">stillnessofnight</mapping-wallpaper><!-- Tempered Blue -->
+            <mapping-wallpaper type="propertyWallpaper" value="B">stillnessofnight</mapping-wallpaper><!-- Arte Black -->
+            <!--<mapping-wallpaper type="propertyWallpaper" value="W">stillnessofnight</mapping-wallpaper>--><!-- Gloss Tempered Blue -->
+        </sku>
+    </project>
+</Wallpaper>
